@@ -1,0 +1,112 @@
+body {
+    background-color: #f7f1e5;
+    color: #51483d;
+    font-family: Georgia, serif;
+    margin: 0;
+}
+
+header {
+    background-color: #e8dcc6;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 2px solid #b7a17e;
+}
+
+.logo {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: #382c21;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: #77764a;
+}
+
+main {
+    width: 90%;
+    margin: 25px auto;
+}
+
+section {
+    background-color: #fffdf8;
+    padding: 25px;
+    border: 1px solid #e2d6c2;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #382c21;
+    text-align: center;
+}
+
+h2 {
+    color: #594431;
+    border-left: 4px solid #77764a;
+    padding-left: 10px;
+}
+
+h3 {
+    color: #382c21;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.intro {
+    text-align: center;
+    font-size: 18px;
+}
+
+.banner {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.tarjeta {
+    background-color: #fbf7ef;
+    border: 1px solid #e2d6c2;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.boton {
+    display: inline-block;
+    background-color: #594431;
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+    margin-top: 8px;
+}
+
+.pregunta {
+    background-color: #fbf7ef;
+    border-left: 4px solid #77764a;
+    padding: 12px;
+    margin: 15px 0;
+}
+
+.linea {
+    border-left: 3px solid #77764a;
+    padding-left: 15px;
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #786b58;
+}
